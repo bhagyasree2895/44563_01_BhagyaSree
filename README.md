@@ -20,8 +20,9 @@
 - Singing
 - Listening Music
 - Going for Long Rides
-    - Goa
-    - Mumbai
+    
+    1. Goa
+    2. Mumbai
 ## Put your heart, mind, and soul into even your smallest acts. This is the secret of success.
 ![For_Image](Image1.jpg)
 
