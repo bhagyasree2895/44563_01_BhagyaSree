@@ -1,9 +1,7 @@
 # 44563_01_BhagyaSree
 ## Bhagya Sree Here!!!!!!!!!!
 ### About me
-> I am student from Warangal, India here in Northwest Missouri State University. 
-> I had done my under graduation in Computer Science & Engineering from GITAM University, Hyderabad. 
-> I have worked for Rockwell Collins as an Associate Software engineer for around 1.8 years. 
+> I am student from Warangal, India here in Northwest Missouri State University.I had done my under graduation in Computer Science & Engineering from GITAM University, Hyderabad.I have worked for Rockwell Collins as an Associate Software engineer for around 1.8 years. 
 ## To Access my profiles click here:
 - [linkedin](https://www.linkedin.com/in/bhagya-sree-chanda-067152117/)
 - [Github](https://github.com/bhagyasree2895/)
