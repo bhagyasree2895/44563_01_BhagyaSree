@@ -19,8 +19,8 @@
 - Singing
 - Listening Music
 - Going for Long Rides
-1. Goa
-2. Mumbai
+    - Goa
+    - Mumbai
 
 After working there, I thought I have to still improve technical, logical, programming, analyzing skills and learn lot more new technologies for moving ahead in my career. So, I have selected this path to grow professionally. I am currently here to pursue my graduation in Applied Computer Science program admitted in spring 2019.I have been enrolled in Object Oriented Programming, Advanced Database topics, Web Apps course for this semester.
 
