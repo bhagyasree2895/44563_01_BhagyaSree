@@ -15,18 +15,12 @@
 1. Object oriented Programming(OOPS)
 2. Web-Applications
 3. Advanced Database Systems
-## Common Tools for Web Development
-### Web browsers
-- Google Chrome
-- Mozilla Firefox
-### Editors
-- Notepad++
-- Visual Studio Code (VS Code)
-### Version Control
-- Git for Windows (comes with Git Bash)
-- TortoiseGit
-### JavaScript without a Browser
-- Node.js (includes npm, the Node package manager)
+### My hobbies
+- Singing
+- Listening Music
+- Going for Long Rides
+1. Goa
+2. Mumbai
 
 After working there, I thought I have to still improve technical, logical, programming, analyzing skills and learn lot more new technologies for moving ahead in my career. So, I have selected this path to grow professionally. I am currently here to pursue my graduation in Applied Computer Science program admitted in spring 2019.I have been enrolled in Object Oriented Programming, Advanced Database topics, Web Apps course for this semester.
 
