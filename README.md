@@ -13,13 +13,6 @@
 - Program Period: 2years
 ## My courses in this current semester are:
 
-1. Login to GitHub.
-1. Click + to add a new repo. 
-1. Enter the name of the repo (which will become the title of your page). 
-1. Allow GitHub to create a .gitignore based on the type of project (if needed). 
-1. Allow GitHub to draft a README.md. 
-1. Choose a license if desired. 
-
 1. Object oriented Programming(OOPS)
 1. Web-Applications
 1. Advanced Database Systems
