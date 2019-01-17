@@ -8,6 +8,9 @@
 - [linkedin](https://www.linkedin.com/in/bhagya-sree-chanda-067152117/)
 - [Github](https://github.com/bhagyasree2895/)
 - [Bitbucket](https://bitbucket.org/Bhagyasree2895/)
+## Enrolled For:
+- Program: ACS
+- Program Period: 2years
 ## My courses in this current semester are:
 1. Object oriented Programming(OOPS)
 2. Web-Applications
